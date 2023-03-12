@@ -24,4 +24,4 @@ O projeto utilizou as seguintes tecnologias:
 <h2>Finalização</h2>
 
 <p>O resultado do projeto pode ser visto no GitHubPages,
-<a href='https://amandakarolline.github.io/projeto-mario-semana-dev-em-dobro/' target='_blank'>clicando aqui</a>.</p>
+<a href='https://amandakarolline.github.io/projeto-mario-semana-dev-em-dobro/' target="_blank">clicando aqui</a>.</p>
