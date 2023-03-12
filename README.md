@@ -1,8 +1,8 @@
-<h1 align="center">Projeto Mario - O Filme</h1>
+<h1 align="center">Projeto Super Mario Bros - O Filme</h1>
 
 <p>Projeto desenvolvido na Semana do Zero ao Programador Contratado, com duração de três lives do canal Dev em Dobro.</p>
 
-<p>Tendo como objetivo a criação de uma página sobre o filme Mario.</p>
+<p>Tendo como objetivo a criação de uma página sobre o filme Super Mario Bros.</p>
 
 <h2> Tecnologias </h2>
 
